@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Science, Machine Learning, Cyber Security, Internet of Things
 - 🌱 I’m currently learning CSE & AI
 - 💞️ I’m looking to collaborate on AIML / Data Science / Comp Sci Projects
-- 📫 How to reach me Via Linked-in
+- 📫 How to reach me Via Linked-in / email -> baveshraamsv@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
