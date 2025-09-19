@@ -14,7 +14,7 @@ I'm not a generalist. I'm building deep expertise in designing the **technical o
 
 <!-- Featured Projects -->
 
-## 🚧 Projects I'm Completed On
+## 🚧 Projects I've Completed
 
 | Project | Description | Stack |
 |--------|-------------|-------|
