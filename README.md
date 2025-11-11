@@ -5,7 +5,7 @@
 I help **remote-first engineering teams** build lean, functional internal systems that unify code, knowledge, and collaboration.  
 I'm not a generalist. I'm building deep expertise in designing the **technical operating systems** remote teams need to scale without chaos.
 
-🎓 B.Tech (AI) @ Amrita | BS (Data Science) @ IIT Madras  
+🎓 B.Tech (AI) @ Amrita |
 🛠️ Currently building: **[duotech.dev](#)** – a gamified learning platform for tech  
 🧠 Core Interest: Systems thinking, AI for productivity, OSS learning frameworks  
 📍 Based in Trichy, Tamil Nadu
