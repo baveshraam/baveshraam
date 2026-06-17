@@ -1,47 +1,81 @@
 <div align="center">
 
+```
+                                                  .                                                        
+                                                 .:.                                                       
+                                                .:::.                                                      
+                                              .:::;;;:.                                                    
+                                             .:;;;;;;;:.                                                   
+                                            .;;;;;;;;;:.                                                   
+                                           .:;;;;;;;;;;.                                                   
+                                          .:;;;;;;;;;;;;.                                                  
+                                         .:;;;;;;;;;;;;;;.                                                 
+                                        .:;;;;;;;::;;;;;;.                                                 
+                                       .:;;;;;;;:. ;;;;;;:.                                               
+                                     .::;;;;;::    ;;;;;;:..                                              
+                                    .:;;;;;;.      ;;;;;;;;:.                                             
+                                  .::;;;;;:.       ;;;;::;;;:.                                            
+                                 .:;;;;;;.         ::     ;;;.                                            
+                                .:;;;;;:.                 :;;;:.                                          
+                               .;;;;;;.                   .;;;;:.                                         
+                              .;;;;;:.                     .;;;;;.                                        
+                             .:;;;;:.                      .:;;;;:.                                       
+                            .:;;;;:.                        .:;;;;:.                                      
+                           .:;;;;:.                          .:;;;;:.                                     
+                          .:;;;;:.                            .:;;;;:.                                    
+                         .:;;;;:.                              .:;;;;:.                                   
+                         .:;;;;;:.         .:;;:.              .:;;;;:.                                   
+                       .:;;;;;;:.       .:;;;;;:.               .:;;;;:.                                  
+                      .:;;;;;;;:.       .;;;;;:.                 .:;;;;:.                                 
+                     .:;;;;;;;:.       .:;;;;:.                   .:;;;;:.                                
+                    .:;;:;;;;:.        .:;;;;.                     .:;;;;;.                                
+                   .:;;;;;;;:.         .:;;;.                      .:;;;;:.                                
+                  .:;;:  ;;;:.        .:;;;.                       .:;;;;:.                               
+                 .:;;;    ;;;:.       .:;;.                        .:;;;;:.                               
+                .:;;;".    ";;:.      .;:.                        .:;;;;;.                                
+                ';;;;.      ;;;;      .:;.                       .:;;;;;.                                 
+                 ;;;;       ';;;      .:.                       .:;;;;:.                                  
+                 ;;;;        ;;;                                ':;;;;:.                                   
+                 ;;;;        ;;;                               .;;;;;:.                                   
+                 ';;;        ;;;                               ;;;;;;.                                    
+                  ;;;;       ;;;     ':'                       ;;;;'                                      
+                  ';;;       ;;;     ;;;                       ;;;'                                       
+                   ;;;.     .;;;     ;;:                      .;;.                                        
+                    ;;:    .;;;.      ;:'                      ':                                          
+                    ';;:..:;;;.       .:                                                                  
+                     ;;;;;;;;         .:.                    ...                                           
+                     ';;;;;;'          ..                    ..                                            
+                      ';;;:.                                 .                                             
+                        ..                                                                               
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
 # Bavesh Raam S
 
-[![GitHub](https://img.shields.io/badge/github-baveshraam-181717?style=flat-square&logo=github)](https://github.com/baveshraam)
-[![LinkedIn](https://img.shields.io/badge/linkedin-bavesh--raam--s-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/bavesh-raam-s)
-[![Email](https://img.shields.io/badge/email-baveshraamsv%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:baveshraamsv@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-baveshraam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/baveshraam)
+[![LinkedIn](https://img.shields.io/badge/linkedin-bavesh--raam--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bavesh-raam-s)
+[![Email](https://img.shields.io/badge/email-baveshraamsv%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:baveshraamsv@gmail.com)
+
+### Systems &nbsp;·&nbsp; AI &nbsp;·&nbsp; Infrastructure
 
 </div>
 
 ---
 
-### I build production systems at the intersection of AI, systems engineering, and infrastructure.
+### Currently engineering at [ResQBag](https://github.com/ResQbag) — agentic AI systems, distributed code intelligence, and production infrastructure. I build things that work at scale.
 
-Currently engineering agentic AI systems and distributed code intelligence pipelines. I ship full-stack platforms, deploy self-hosted LLM infrastructure, and optimize backend architectures at scale. My work spans everything from GPU-accelerated deep learning and real-time streaming to firmware-level motor control and IoT sensor networks. I care about performance, reliability, and shipping things that actually work in production.
+<br>
 
-**Currently building at [ResQBag](https://github.com/ResQbag)** — architecting and deploying modular backend systems, cloud infrastructure, and AI-driven pipelines.
-
----
-
-## What I Ship
-
-### Agentic AI & Distributed Code Intelligence
-Built and deployed an enterprise-scale, fully self-hosted agentic AI platform for large-scale repository restructuring at DRDO (Aeronautical Development Establishment). The system combines centralized GPU-backed LLM serving with distributed semantic code intelligence — spanning MCP service orchestration, Tree-sitter and Clang-based static analysis pipelines, vector retrieval systems, and air-gapped offline deployment workflows. Designed for multi-user enterprise environments with production-grade reliability and zero external API dependencies.
-
-### AI & Deep Learning Systems
-Fine-tuned ResNet-FPN architectures on 43K SAR satellite images for real-time maritime vessel detection — achieving 0.73 mAP on inshore scenes with adaptive model selection that balances accuracy and inference latency under 60ms on consumer hardware. Built ChronosAI, a multi-model time-series forecasting ensemble combining LSTM, ARIMA, and Prophet with inverse-error weighted averaging — driving MAPE down to 62% from individual model baselines of 84% and 71%, with SHAP-driven explainability surfacing behavioral feature importance. Developed VisualVerse, an end-to-end NLP pipeline that transforms unstructured text into structured mind maps and comic-style visual narratives, with Random Forest classification hitting 91% accuracy across 7,000 documents.
-
-### Retrieval-Augmented Generation & Knowledge Systems
-Architected Open Notebook, a persistent RAG-based AI knowledge platform with chunked embedding storage (512-token windows, 128 overlap) and FAISS vector search — pushing retrieval Hit@5 from 0.53 to 0.87 and answer relevance from 3.1/5 to 4.4/5. Built a knowledge graph extraction layer over spaCy with custom relation extraction pipelines achieving 0.72 precision and 0.68 recall. Deployed the full stack with FastAPI orchestration, LangChain/LangGraph agent workflows, WebSocket task execution, and Docker containerization.
-
-### Big Data & Stream Processing
-Engineered an end-to-end smart city traffic congestion prediction system processing 46M+ GPS trip records. Built spatial grid feature engineering (500m cells) and temporal lag features (15/30/60 min windows) with Apache Spark and Hadoop HDFS. Trained Gradient Boosted Trees achieving 79% test accuracy and 0.76 weighted F1 — outperforming logistic regression baselines by 15 points. Deployed a real-time streaming pipeline with Kafka and Spark Structured Streaming handling 1,000+ events per second at 3-second processing latency. Optimized storage from 120GB raw CSV to 28GB Parquet with Snappy compression — a 77% reduction.
-
-### Full-Stack Platforms & Infrastructure
-Built Doc-Patient Connect, a production telehealth platform with Next.js, Prisma, PostgreSQL, and Vonage video APIs — achieving sub-2-second video connection times with role-based access control and WebSocket-driven live notifications. Deployed on Vercel with 99.9% uptime. Developed a real-time honeypot security dashboard capturing and classifying 2,300+ malicious attack vectors using TF-IDF with Random Forest achieving 89% classification accuracy across SQLi, XSS, command injection, and reconnaissance patterns. Architected Namma Vayal, an AI-powered agricultural marketplace with on-device TFLite inference (84% accuracy, 6MB model, 120ms on mid-range devices) and hybrid RAG search over 1,200+ government and market documents.
-
-### Data Engineering & Analytics Infrastructure
-Designed an enterprise-scale data warehouse and BI analytics stack handling 10M+ rows with optimized star-schema structures delivering 40% faster analytical query performance. Built automated ETL pipelines ingesting 2M+ records with time-series forecasting achieving 18% lower MAPE than moving-average baselines. Developed autonomous business intelligence pipelines using statistical anomaly detection (Z-score, IQR) across 15+ key performance metrics, reducing manual analysis overhead by 80%.
-
-### Embedded Systems & Control
-Built EV motor-control optimization workflows using physics-based motor models and GEKKO for efficiency mapping and dynamic speed profile generation. Designed and assembled a four-wheeled robotic vehicle with motion-control algorithms, obstacle detection, and pick-and-place automation achieving 92% operational success rates. Developed Arduino-based IoT healthcare monitoring systems with real-time sensor fusion and ML-driven disease prediction achieving 82% accuracy across multiple conditions.
-
----
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
 
 ## Technical Arsenal
 
@@ -65,13 +99,12 @@ Built EV motor-control optimization workflows using physics-based motor models a
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Detectron2-2D3748?style=flat-square" />
+  <img src="https://img.shields.io/badge/Detectron2-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-2496ED?style=flat-square" />
-  <img src="https://img.shields.io/badge/CNNs_(ResNet,_EfficientNet)-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/LSTM_|_RNNs-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/ARIMA_|_Prophet-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/CNNs_(ResNet,_EfficientNet)-3F51B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/LSTM_|_RNNs-E91E63?style=flat-square" />
+  <img src="https://img.shields.io/badge/ARIMA_|_Prophet-00BCD4?style=flat-square" />
   <img src="https://img.shields.io/badge/SHAP-FF7F0E?style=flat-square" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -96,7 +129,6 @@ Built EV motor-control optimization workflows using physics-based motor models a
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
   <img src="https://img.shields.io/badge/SSE-6366F1?style=flat-square" />
 </td>
@@ -122,7 +154,7 @@ Built EV motor-control optimization workflows using physics-based motor models a
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Air--Gapped_Deployment-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Air--Gapped_Deployment-8B0000?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -149,7 +181,59 @@ Built EV motor-control optimization workflows using physics-based motor models a
 </tr>
 </table>
 
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
+
+## Selected Work
+
+### Agentic AI & Distributed Code Intelligence
+
+Deployed a production-grade, fully self-hosted agentic AI platform for enterprise-scale repository restructuring at **DRDO (Aeronautical Development Establishment)**. The system integrates centralized GPU-backed LLM serving with distributed semantic code intelligence — MCP service orchestration, Tree-sitter and Clang-based static analysis, vector retrieval, and air-gapped offline deployment. Designed for multi-user enterprise environments with zero external API dependencies.
+
 ---
+
+### Deep Learning & Computer Vision
+
+Fine-tuned **ResNet-FPN** architectures on 43K SAR satellite images for real-time maritime vessel detection — **0.73 mAP** on inshore scenes with adaptive model selection balancing accuracy and inference latency under 60ms on consumer hardware. Built **ChronosAI**, a multi-model time-series forecasting ensemble (LSTM, ARIMA, Prophet) with inverse-error weighted averaging — driving MAPE to **62%** from individual baselines of 84% and 71%, with SHAP-driven behavioral feature importance. Developed **VisualVerse**, an end-to-end NLP pipeline transforming unstructured text into mind maps and comic-style visual narratives — Random Forest classification at **91% accuracy** across 7,000 documents.
+
+---
+
+### RAG & Knowledge Systems
+
+Architected **Open Notebook**, a persistent RAG-based AI knowledge platform with chunked embedding storage and FAISS vector search — retrieval Hit@5 from 0.53 to **0.87**, answer relevance from 3.1/5 to **4.4/5**. Built a knowledge graph extraction layer over spaCy with custom relation extraction (precision 0.72, recall 0.68). Deployed with FastAPI orchestration, LangChain/LangGraph agents, WebSocket task execution, and Docker.
+
+---
+
+### Big Data & Stream Processing
+
+Engineered an end-to-end traffic congestion prediction system processing **46M+ GPS trip records** with Apache Spark and Hadoop HDFS. Trained Gradient Boosted Trees — **79% test accuracy, 0.76 weighted F1** (+15 points over logistic regression baseline). Real-time Kafka + Spark Structured Streaming pipeline handling **1,000+ events/sec at 3-second latency**. Storage optimization: 120GB raw CSV to 28GB Parquet with Snappy — **77% reduction**.
+
+---
+
+### Full-Stack Platforms
+
+Built **Doc-Patient Connect**, a production telehealth platform (Next.js, Prisma, PostgreSQL, Vonage) with sub-2-second video connections, RBAC, and WebSocket live notifications — **99.9% uptime** on Vercel. Developed a **Honeypot Security Dashboard** capturing 2,300+ malicious requests with TF-IDF + Random Forest classification at **89% accuracy** across SQLi, XSS, command injection, and reconnaissance patterns. Architected **Namma Vayal**, an AI-powered agricultural marketplace with on-device TFLite inference (84% accuracy, 6MB, 120ms) and hybrid RAG search over 1,200+ documents — **Finalist, Gen AI CBE Hackathon 2025**.
+
+---
+
+### Data Engineering & Analytics
+
+Designed an enterprise data warehouse handling **10M+ rows** with optimized star-schema structures delivering **40% faster** analytical queries. Built automated ETL pipelines ingesting 2M+ records with time-series forecasting achieving **18% lower MAPE** than moving-average baselines. Developed autonomous BI pipelines with statistical anomaly detection across 15+ KPIs — reducing manual analysis overhead by **80%**.
+
+---
+
+### Embedded Systems & Control
+
+Built EV motor-control optimization workflows using physics-based models and GEKKO. Assembled a four-wheeled robotic vehicle with motion-control algorithms and pick-and-place automation — **92% success rate**. Developed Arduino-based IoT healthcare monitoring with real-time sensor fusion and ML-driven disease prediction — **82% accuracy** across multiple conditions.
+
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
 
 <div align="center">
 
@@ -161,12 +245,40 @@ Built EV motor-control optimization workflows using physics-based motor models a
 
 ![Profile Views](https://komarev.com/ghpvc/?username=baveshraam&color=404040)
 
+<br>
+
+**Runner-Up** — Gen AI CBE Hackathon 2025 &nbsp;|&nbsp; **Finalist** — Infosys Global Hackathon 2025
+
 </div>
 
----
+<br>
 
 <div align="center">
 
-**Runner-Up** — Gen AI CBE Hackathon 2025 &nbsp;|&nbsp; **Finalist** — Infosys Global Hackathon 2025
+```
+                              .                                     
+                              :..                                    
+                             .::..                                   
+                            .:;:::..                                 
+                           .:;;;;;:..                                
+                          .:;;;;;;;;..                               
+                         .:;;;;;;;;;;..                              
+                        .:;;;;;;:;;;;;..                             
+                       .:;;;;;;;:.:;;;;..                            
+                      .:;;;;;;:.   .;;;;..                           
+                     .:;;;;:'.      .;;;;;..                         
+                    .:;;;:'.         .:;;;:..                        
+                  .:;;;;;'.           .:;;;;;..                      
+                 .:;;;;;'.             ';;;:;;..                     
+                ':::;;;'.              .:;;;;;:..                    
+               ':::::;'.                .:;;;;;:..                   
+              '::::::'.                  .::;;;;;:..                 
+             '::::::'.                    .::;:;;;:'.                
+           .'::'. .                          .:;:::;;.               
+           .::'                                .::;;;;:.             
+           .;:.                                  .:::;:..            
+            ':.                                     ...              
+             .                                                      
+```
 
 </div>
