@@ -260,9 +260,7 @@ Built EV motor-control optimization workflows using physics-based models and GEK
 ### 
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baveshraam&layout=compact&hide_border=true)
-
+stats for nerds 
 ![Profile Views](https://komarev.com/ghpvc/?username=baveshraam&color=404040)
 
 <br>
