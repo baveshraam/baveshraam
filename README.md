@@ -257,10 +257,10 @@ Built EV motor-control optimization workflows using physics-based models and GEK
 
 <div align="center">
 
-### 
+### stats for nerds 
 
 
-stats for nerds 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=baveshraam&color=404040)
 
 <br>
