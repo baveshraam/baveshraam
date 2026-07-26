@@ -265,7 +265,7 @@ Built EV motor-control optimization workflows using physics-based models and GEK
 
 <br>
 
-**Runner-Up** — Gen AI CBE Hackathon 2025 &nbsp;|&nbsp; **Finalist** — Infosys Global Hackathon 2025
+**Top 6** — Gen AI CBE Hackathon 2025 &nbsp;|&nbsp; **Finalist** — Infosys Global Hackathon 2025
 
 </div>
 
